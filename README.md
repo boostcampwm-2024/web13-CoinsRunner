@@ -75,7 +75,7 @@ _"나도 다시 일어설 수 있어!"_ 결심한 부캠이는 **:books: 투자 
 
 
 ## 🎨 기획 및 디자인
-- [기획서](링크)
+- [기획서](https://github.com/boostcampwm-2024/web13-YeokjeonNongbu/wiki/%EA%B8%B0%ED%9A%8D%EC%84%9C)
 - [디자인](링크)
 - [와이어프레임](https://www.figma.com/design/Qa4Xzjkjz3uc0pQw09rUzq/Untitled?node-id=0-1&node-type=canvas&t=108thZj64hEXwstl-0)
 
