@@ -55,3 +55,7 @@ _"나도 다시 일어설 수 있어!"_ 결심한 부캠이는 **📚 투자 공
     </td>
   </tr>
 </table>
+
+## 와이어 프레임
+https://www.figma.com/design/Qa4Xzjkjz3uc0pQw09rUzq/Untitled?node-id=0-1&node-type=canvas&t=108thZj64hEXwstl-0
+
